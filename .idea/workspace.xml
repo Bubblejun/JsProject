@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac4ae78-113e-4597-ab62-0fbe0a5508b1" name="默认的" comment="" />
+    <list default="true" id="aac4ae78-113e-4597-ab62-0fbe0a5508b1" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20171111/Self创建多个对象.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20171111/_init_方法.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20171111/_str_方法.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20171111/存放家具.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20171111/对象基本创建.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20171111/应用考地瓜.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +73,7 @@
         <entry file="file://D:/phpStudy/WWW/project/ceshi/js/cgi-bin/get.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="482">
-              <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+              <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -656,7 +663,7 @@
     <entry file="file://D:/phpStudy/WWW/project/ceshi/js/cgi-bin/get.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
-          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+          <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
           <folding />
         </state>
       </provider>
